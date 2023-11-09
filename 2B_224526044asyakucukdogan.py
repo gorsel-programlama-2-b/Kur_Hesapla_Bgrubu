@@ -70,7 +70,7 @@ btn_hesapla = ttk.Button(anaform,
                          style="TButton",
                          cursor="hand2")
 
-# Stil tanımlamak için
+
 style = ttk.Style()
 style.configure("TButton", font=("Comic Sans MS", 12),
                 background="#FFCBDB")
